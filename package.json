@@ -1,0 +1,12 @@
+{
+	"name": "examples",
+	"version": "1.0.0",
+	"description": "\"\"\u001b[DSimple node examples\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index"
+	},
+	"author": "\"\u001b[D\u001b[C\"\u001b[DPrerna Aggarwal\u001b[C\u001b[D\"",
+	"license": "ISC"
+}
